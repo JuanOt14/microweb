@@ -1,6 +1,4 @@
 flask
 flask-cors
-flask-sqlalchemy
-pymysql
 flask-consulate
 consulate
